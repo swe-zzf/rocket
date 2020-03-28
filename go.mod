@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/astaxie/beego v1.12.1
+	github.com/boltdb/bolt v1.3.1
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/goproxy/goproxy v0.0.0-20200326092349-8b22ef89a531
 	github.com/gorilla/mux v1.7.4
@@ -17,6 +18,7 @@ require (
 	github.com/onsi/gomega v1.9.0 // indirect
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/stretchr/testify v1.5.1
+	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/validator.v2 v2.0.0-20191107172027-c3144fdedc21
 )
