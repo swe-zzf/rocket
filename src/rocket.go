@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"gustz.com/rocket/src/util"
+)
 
 /**
  * XXX 
@@ -9,5 +12,7 @@ import "fmt"
  * @since  2020-03-24
  */
 func main() {
+	util.RunLoGoProxy()
 	fmt.Println("this is main...")
+
 }

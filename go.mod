@@ -4,8 +4,8 @@ go 1.13
 
 require (
 	github.com/astaxie/beego v1.12.1
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-redis/redis v6.15.7+incompatible
+	github.com/goproxy/goproxy v0.0.0-20200326092349-8b22ef89a531
 	github.com/gorilla/mux v1.7.4
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/golang-lru v0.5.4
