@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"encoding/json"
-	"gustz.com/rocket/v1.0/test/blockchain/core"
+	"gustz.com/rocket/test/blockchain/core"
 	"io"
 	"log"
 	"net/http"

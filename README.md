@@ -2,17 +2,19 @@
 go相关工具和学习示例
 
 ##1. 
+- XXX
+- XXX
+- XXX
 
 ## 2. go命令规范
-
--
--
--
+- XXX
+- XXX
+- XXX
 
 ## 3. Beego web框架
 - 官网地址：
--
-- 
+- XXX
+- XXX
 
 ## 4. Short link模块
 - 介绍：<br/>
@@ -58,18 +60,14 @@ URL缩短服务在base62中编码URL并将它们存储在redis中<br/>
   }
   </pre>
   
- ***重定向：***
+    ***重定向：***
   
-  > `GET /{shortlink}`
+    > `GET /{shortlink}`
   
-  Expand the short link and return a **temporary redirect** HTTP status
-  
-  
-- 
+    Expand the short link and return a **temporary redirect** HTTP status 
 
 ## .注意事项
-
-- 
--
--
+- XXX
+- XXX
+- XXX
 
