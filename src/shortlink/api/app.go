@@ -3,7 +3,7 @@ package api
 import (
 	"encoding/json"
 	"fmt"
-	"gustz.com/rocket/v1.0/src/shortlink/core"
+	"github.com/swe-zzf/rocket/src/shortlink/core"
 	"log"
 	"net/http"
 	validator "gopkg.in/validator.v2"

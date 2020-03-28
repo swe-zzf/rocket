@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gustz.com/rocket/v1.0/test/blockchain/core"
-	"gustz.com/rocket/v1.0/test/blockchain/rpc"
+	"github.com/swe-zzf/rocket/test/blockchain/core"
+	"github.com/swe-zzf/rocket/test/blockchain/rpc"
 )
 
 /**

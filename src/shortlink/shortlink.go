@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gustz.com/rocket/v1.0/src/shortlink/api"
-	"gustz.com/rocket/v1.0/src/shortlink/core"
+	"github.com/swe-zzf/rocket/src/shortlink/api"
+	"github.com/swe-zzf/rocket/src/shortlink/core"
 )
 
 /**

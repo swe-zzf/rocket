@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gustz.com/rocket/v1.0/test/learn/second"
+	"github.com/swe-zzf/rocket/test/learn/second"
 )
 
 /**

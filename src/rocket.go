@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gustz.com/rocket/src/util"
+	"github.com/swe-zzf/rocket/src/util"
 )
 
 /**

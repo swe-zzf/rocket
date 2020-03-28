@@ -1,6 +1,6 @@
 package main
 
-import "gustz.com/rocket/v1.0/src/socket/server"
+import "github.com/swe-zzf/rocket/src/socket/server"
 
 /**
  * socket服务

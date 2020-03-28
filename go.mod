@@ -1,4 +1,4 @@
-module gustz.com/rocket
+module github.com/swe-zzf/rocket
 
 go 1.13
 

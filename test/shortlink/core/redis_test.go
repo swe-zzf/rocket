@@ -1,7 +1,7 @@
 package core_test
 
 import (
-	"gustz.com/rocket/v1.0/src/shortlink/core"
+	"github.com/swe-zzf/rocket/src/shortlink/core"
 	"testing"
 )
 
